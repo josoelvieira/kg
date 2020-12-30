@@ -14,13 +14,14 @@
     text-align: center;
 }
 #navegacao nav ul li a{
-    color: #ff88aa;
+    color: white;
     font-weight: bold;
     font-family: 'Dancing Script', cursive;
     font-size: 22px;
+    padding: 14px;
 }
 #navegacao nav ul li a:hover{
-    border-bottom: 4px solid #ff88aa;
+    color:black;
     
 }
 .bg-marron{
@@ -51,6 +52,15 @@
 }
 .link a{
     color:white;
-    
+
+}
+.bg-rosa{
+    color:#fff;
+    background: #ff88aa;
+}
+.text-logo {
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;
+    text-align: center;
 }
 
