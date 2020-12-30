@@ -62,4 +62,7 @@
     font-size: 22px;
     text-align: center;
 }
+.borda {
+    border-bottom:4px solid #ff88aa;
+}
 
