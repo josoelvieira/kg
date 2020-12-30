@@ -45,9 +45,8 @@
 .rodape {
     background: #ff88aa;
     color:white;
-    margin: 10px auto;
+    margin: 0 auto;
     text-align: center;
-    width: 100%;
     padding: 10px;
 }
 .link a{
