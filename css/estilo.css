@@ -38,3 +38,19 @@
     margin: 10px 0;
     font-size: 18px;
 }
+.midias {
+    width: 64px;
+}
+.rodape {
+    background: #ff88aa;
+    color:white;
+    margin: 10px auto;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+}
+.link a{
+    color:white;
+    
+}
+
