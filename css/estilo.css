@@ -65,4 +65,7 @@
 .borda {
     border-bottom:4px solid #ff88aa;
 }
+.btn-enviar{
+    width: 150px;
+}
 
