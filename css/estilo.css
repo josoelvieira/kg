@@ -68,4 +68,7 @@
 .btn-enviar{
     width: 150px;
 }
+.overflow{
+    overflow-x: hidden;
+}
 
